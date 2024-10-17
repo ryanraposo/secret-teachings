@@ -4,7 +4,8 @@
 - ii. [purpose](#purpose)
 - iii. [preparation](#preparation)
 - iv. [configuration](#configuration)
-    - iv.i [system instructions](#system-instructions)
+    - iv.i [chunk size/overlap](#ivii-chunk-sizeoverlap)
+    - iv.ii [system instructions](#iviii-system-instructions)
 - v. [example](#example)
 
 ## i. <a name='description'></a>description
